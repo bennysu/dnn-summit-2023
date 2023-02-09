@@ -2,7 +2,7 @@
 
 # DNN Summit 2023
 
-> An Ionic + Tailwind CSS example for hybrid mobile app development.
+> An Ionic + Tailwind CSS example for hybrid mobile app development. Install the dependencies by running `npm install` then `ionic serve` to start exploring
 
 ![Screenshots of Agenda Page](https://ucarecdn.com/1de42849-b609-4850-bbc0-937063458f3c/-/preview/400x400/)
 ![Screenshots of Speakers Page](https://ucarecdn.com/3ddfa091-ddc4-46a4-b5e5-7ad6213ac135/-/preview/400x400/)
