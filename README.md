@@ -8,10 +8,6 @@
 ![Screenshots of Speakers Page](https://ucarecdn.com/3ddfa091-ddc4-46a4-b5e5-7ad6213ac135/-/preview/400x400/)
 ![Screenshots of Sponsors Page](https://ucarecdn.com/b59a2201-98dd-4be6-b067-52773043f306/-/preview/400x400/)
 
-> Try this app on a real device from App Store or Google Play Store.
-
-[<img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png" height="45">](https://apps.apple.com/us/app/dnn-summit-2023/id1669865746)
-[![Google Play Store](https://lh3.googleusercontent.com/q1k2l5CwMV31JdDXcpN4Ey7O43PxnjAuZBTmcHEwQxVuv_2wCE2gAAQMWxwNUC2FYEOnYgFPOpw6kmHJWuEGeIBLTj9CuxcOEeU8UXyzWJq4NJM3lg=s0)](https://play.google.com/store/apps/details?id=com.wolfxmachina.summit2023)
 
 ## Features
 
