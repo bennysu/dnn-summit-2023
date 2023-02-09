@@ -1,0 +1,7 @@
+{
+  "name": "DNN Summit 2023",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
