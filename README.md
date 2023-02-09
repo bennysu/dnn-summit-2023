@@ -4,9 +4,9 @@
 
 > An Ionic + Tailwind CSS example for hybrid mobile app development.
 
-![Screenshots of Agenda Page](https://ucarecdn.com/1de42849-b609-4850-bbc0-937063458f3c/SimulatorScreenShotiPhone14Pro20230203at220738.png)
-![Screenshots of Speakers Page](https://ucarecdn.com/3ddfa091-ddc4-46a4-b5e5-7ad6213ac135/-/preview/-/quality/smart/-/format/auto/)
-![Screenshots of Sponsors Page](https://ucarecdn.com/b59a2201-98dd-4be6-b067-52773043f306/SimulatorScreenShotiPhone14Pro20230203at220756.png)
+![Screenshots of Agenda Page](https://ucarecdn.com/1de42849-b609-4850-bbc0-937063458f3c/-/preview/400x400/)
+![Screenshots of Speakers Page](https://ucarecdn.com/3ddfa091-ddc4-46a4-b5e5-7ad6213ac135/-/preview/400x400/)
+![Screenshots of Sponsors Page](https://ucarecdn.com/b59a2201-98dd-4be6-b067-52773043f306/-/preview/400x400/)
 
 ## Features
 
