@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="is_endpointTx">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/Tx_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_endpointRx">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/Rx_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_editendpointTx">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/Tx_edit_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_editendpointRx">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/Rx_edit_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_tmpendpointTx">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/tmpTx_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_tmpendpointRx">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/tmpRx_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_pnEndPoint">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/placeholder_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_endpoint_prevTx">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/prevTx_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_endpoint_prevRx">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/prevRx_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_endpoint_nextRx">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/nextRx_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_endpoint_nextTx">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.sl-dog.com/desktopmodules/IS_SLDog/images/nextTx_marker.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="is_good_meas">
+      <LineStyle>
+        <color>ff00ff00</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="is_fair_meas">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="is_poor_meas">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="is_block_meas">
+      <LineStyle>
+        <color>ffffffff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="is_prev_next_meas">
+      <LineStyle>
+        <color>ccccccff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>ID 482 RX</name>
+      <styleUrl>#is_endpointRx</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-8.248513,40.134755</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ID 482 TX</name>
+      <styleUrl>#is_endpointTx</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-8.248225,40.134435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meas. ID: 482</name>
+      <description><![CDATA[Date: 7/4/2023<br />Assessment: GOOD (10)<br />Device ID: 1072<br />Length: 105 (m)<br />Eval Len: 43 (m)]]></description>
+      <styleUrl>#is_good_meas</styleUrl>
+      <LineString>
+        <extrude>false</extrude>
+        <tessellate>true</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-8.248513,40.134755
+-8.248225,40.134435</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ID 481 RX</name>
+      <styleUrl>#is_endpoint_prevRx</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-8.727365,39.823248</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ID 481 TX</name>
+      <styleUrl>#is_endpoint_prevTx</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-8.727106,39.823563</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meas. ID: 481</name>
+      <description><![CDATA[Previous Measurement<br />Date: 4/12/2023<br />Assessment: GOOD (8)<br />Device ID: 1072<br />Length: 45 (m)<br />Eval Len: 41 (m)]]></description>
+      <styleUrl>#is_prev_next_meas</styleUrl>
+      <LineString>
+        <extrude>false</extrude>
+        <tessellate>true</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-8.727365,39.823248
+-8.727106,39.823563</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
